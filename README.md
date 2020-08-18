@@ -1,1 +1,1 @@
-# Student-Edition
+# LeetCode_Solutions
